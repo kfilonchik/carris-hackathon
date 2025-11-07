@@ -3,6 +3,8 @@
 This repository contains the full analytical pipeline developed for the **Carris Hackathon**, where the main challenge was the **estimation of bus exits (alightings)** using operational Carris data.  
 The project combines **data preparation**, **graph-based mobility analysis**, and **predictive modelling** using a gravity model.
 
+Github: https://github.com/kfilonchik/carris-hackathon/blob/main/README.md
+
 ---
 
 ## 📁 Project Structure
